@@ -52,4 +52,4 @@ This project turns raw Uber booking data into a 3-page dashboard:
 
 ## 👤 Author
 
-[Sakshi Tripathi]|[Github](https://github.com/saakkshhiii16)
+Sakshi Tripathi | [Github](https://github.com/saakkshhiii16)
